@@ -1,0 +1,61 @@
+
+---Downloaded files---
+The import files for: Theme Demo Content were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost/school
+Data file = /Users/robert/Documents/school-site-wordpress/school/wp-content/themes/education-child/demo/content.xml
+Widget file = /Users/robert/Documents/school-site-wordpress/school/wp-content/themes/education-child/demo/widget.wie
+Customizer file = /Users/robert/Documents/school-site-wordpress/school/wp-content/themes/education-child/demo/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Primary Sidebar : 
+
+Search - No Title - Widget already exists
+EM: Advanced Recent Posts - Recent Highlights - Imported
+Recent Posts - No Title - Widget already exists
+Categories - No Title - Widget already exists
+
+Front Page Widget Area : 
+
+EM: Intro - About Our University - Imported
+EM: Call To Action - Education For Inspired Life And Positive Change - Imported
+EM: Services - Why Choose Us ? - Imported
+EM: Featured Page - About Our Library - Imported
+EM: Call To Action - The Premium WordPress Theme For University !! - Imported
+EM: Latest News - Latest Blog - Imported
+
+Footer 1 : 
+
+Text - About University !! - Imported
+EM: Social - No Title - Imported
+
+Footer 2 : 
+
+Navigation Menu - Quick Links - Imported
+
+Footer 3 : 
+
+EM: Advanced Recent Posts - Recent Blog - Imported
+
+Footer 4 : 
+
+Gallery - Our Gallery - Imported
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not suitable for current theme. You can only import customizer settings for the same theme or a child theme.
+
+---pt-ocdi/after_import---
+
